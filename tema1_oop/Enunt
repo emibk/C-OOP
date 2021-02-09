@@ -1,0 +1,2 @@
+Membri privati: denumire_piesa, numar actori, actori, rating.
+Membrul „actori” este un vector dinamic de obiecte din clasa actor ce contine ca membri privati: nume actor (string), varsta(int).
